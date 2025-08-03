@@ -3,4 +3,4 @@ numpy
 pandas
 flask_login
 pymongo
-werkzeug.security
+werkzeug
